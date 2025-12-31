@@ -1,21 +1,95 @@
-# 💫 About Me:
-# Hi there, I'm Arel! 👋<br><br>🚀 **Software Developer & System Architect** |
+<div align="center">
+<h1>Hi there, I'm Arel! 👋</h1>
+<h3>Software Developer & System Architect</h3>
+<p>Specializing in <b>Next.js Ecosystems</b>, <b>BPM Engines</b>, and <b>Enterprise Solutions</b>.</p>
+
+<a href="https://linkedin.com/in/arelyalcin">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+</a>
+<a href="mailto:arelyalcin@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
+</a>
+<a href="https://instagram.com/arelyalcin">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-%2523E4405F.svg%3Fstyle%3Dfor-the-badge%26logo%3DInstagram%26logoColor%3Dwhite" alt="Instagram" />
+</a>
+</div>
+
+<br />
+
+🚀 About Me
+
+Kod yazmanın ötesinde, ölçeklenebilir mimariler kurguluyor ve iş süreçlerini modernize ediyorum. Standart web uygulamalarından ziyade, kendi framework'ünü (Ngerek) ve süreç motorlarını (Quado BPM) geliştiren bir mühendislik vizyonuna sahibim.
+
+🔭 I’m currently working on: Enterprise BPM Solutions & AI-Native Architectures.
+
+🌱 I’m currently exploring: Game Mechanics (modernizing retro concepts) & Advanced RPA Engines.
+
+💬 Ask me about: Next.js Architecture, Database Design (Drizzle/Prisma), and System Scalability.
+
+🛠 Tech Stack & Arsenal
+
+Modern ve kurumsal projelerde tercih ettiğim teknoloji yığınları:
+
+Domain
+
+Technologies
+
+Core & Languages
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arelyalcin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arelyalcin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arelyalcin@gmail.com) 
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arelbir&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arelbir&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arelbir&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Frontend & UI
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arelbir&limit=5&theme=default&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=arelbir&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Backend & API
+
+
+
+Database & Cache
+
+
+
+Cloud & DevOps
+
+
+
+Testing
+
+
+
+🏆 Featured Architectures & Projects
+
+GitHub üzerinde public veya private olarak geliştirdiğim bazı kilit mimariler:
+
+Ngerek Framework 🧠
+
+Next.js tabanlı projeler için geliştirdiğim, AI-Native özelliklere sahip, modüler bir uygulama geliştirme iskeleti.
+
+Quado BPM (Business Process Management) 🔄
+
+Kurumsal süreçleri dijitalleştiren, sürükle-bırak form ve akış tasarımına sahip kapsamlı bir BPM motoru.
+
+Fleet Management System 🚛
+
+Araç takibi, yakıt yönetimi ve operasyonel verimlilik için geliştirdiğim uçtan uca filo yönetim çözümü.
+
+📊 GitHub Analytics
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Darelbir%26theme%3Dradical%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26show_icons%3Dtrue" />
+</td>
+<td width="50%">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Darelbir%26theme%3Dradical%26hide_border%3Dtrue%26layout%3Dcompact" />
+</td>
+</tr>
+</table>
+<img src="https://www.google.com/search?q=https://github-contributor-stats.vercel.app/api%3Fusername%3Darelbir%26limit%3D5%26theme%3Dradical%26combine_all_yearly_contributions%3Dtrue" />
+</div>
+
+<div align="center">
+<img src="https://visitcount.itsvg.in/api?id=arelbir&icon=0&color=0" />
+</div>
